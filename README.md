@@ -11,7 +11,6 @@ Predictive quality control system for Albotherm's Advanced sustainable cooling s
 - [Team Members](#team-members)
 - [Contribution Matrix](#contribution-matrix)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Documentation](#documentation)
   - [Team Charter](#team-charter)
   - [Data Governance](#data-governance)
