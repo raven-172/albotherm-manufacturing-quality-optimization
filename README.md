@@ -87,14 +87,6 @@ portfolio/
 
 ---
 
-## Installation
-
-```git bash
-git clone https://gitlab.uwe.ac.uk/igp_sep25_team08/portfolio.git
-cd portfolio
-pip install -r requirements.txt
-```
-
 ## Documentation
 
 The [docs](<project management/docs/>) folder contains all supporting project documentation.
