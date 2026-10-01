@@ -1,0 +1,11 @@
+# Reflective Report
+
+This project helped me improve both my technical skills and my ability to work in a team. I did work on areas of data analysis, building models like linear regression and random forest, and carrying out optimisation with bayesian optimisation. I carried out exploratory data analysis to uncover insights about Albotherms datasets, finding variables that affected % dry which was the team's target. I also Random Forest models, and used Bayesian optimisation to find the best conditions for low % dry. This helped me understand how machine learning models were implemented and how to train models as well as feature engineering and hypothesis testing to find the best suitable model for predictions.
+
+One of the main things I learned was the importance of validating models properly. At first, I used a single train-test split, which gave overly high results. I later realised this was not reliable and switched to cross-validation, which gave more accurate and realistic results. I also faced issues during optimisation, such as getting unrealistic values due to incorrect bounds. By fixing these and comparing results with real data, I was able to improve the quality of my work.
+
+Working in a team also helped me develop my communication and organisation skills. We regularly shared progress and reviewed each other’s work, which not only helped keep the project consistent, but also to ensure that we were on the right track by presenting to each other similar findings and insights from the analysis of the datasets. Using Scrum and a Kanban board made it easier to track tasks and manage our workload.
+
+However, there are areas I could improve. Sometimes I focused too much on rushing to model before fully checking my approach, which led to extra work later such as having to rerun models and redo feature engineering. In the future, I would spend more time planning and validating ideas earlier. I would also try to explain my results more clearly, especially when dealing with more complex parts like optimisation.
+
+Overall, this project helped me build confidence in data analysis, modelling, and problem solving. It also improved my teamwork skills and organisational skills, which will be useful in future projects and potential future work.

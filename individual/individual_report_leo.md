@@ -1,0 +1,21 @@
+I contributed to the overall direction of the project, focusing on identifying the methodology to achieve the target results (% dry). However, at this stage, I tended to focus on high-level and long-term steps without sufficiently detailing the implementation plans. This led to some inefficiencies in the early stages of the project and highlights the importance of structured and step-by-step planning.
+
+During the data preparation phase, I actively participated in cleaning and merging the data. This phase significantly improved my understanding of data preprocessing. Initially, I relied on rigid and traditional methods, resulting in information loss within the dataset.
+Following group discussions and peer review, we revised the data processing workflow to adopt a more flexible and contextually sensitive approach. This led to improved data quality and reinforced the importance of collaborative consideration in the engineering workflow.
+
+Although I wasn't deeply involved in the data analysis, my main contribution was reviewing methodologies and evaluating technical approaches.
+This phase allowed me to gain valuable insights from diverse perspectives within the team. Through discussions, we identified key patterns and developed important hypotheses regarding the influence of various factors on drying rates.
+
+Based on validated results, I collaborated with team members to develop predictive models and propose experimental conditions.
+We applied Response Surface Methodology (RSM) to design multi-factor experiments to determine optimal conditions.
+This phase laid the foundation for future optimization using Baysean Oprimisation and provided practical recommendations for improving process conditions within the company.
+
+Throughout the project, we applied the Scrum methodology combined with Kanban boards to effectively manage tasks and track progress. This approach allowed us to clearly allocate responsibilities, monitor ongoing work, and ensure transparency across the team.
+We also conducted peer reviews, where team members regularly reviewed each other's work. This helped maintain consistency within the project and ensured that our findings and approaches were aligned. Additionally, we maintained regular communication and progress updates, allowing us to quickly identify issues and adjust our approach as needed.
+From a personal perspective, this experience significantly improved my teamwork skills. I developed a stronger mindset of trusting teammates and became more proactive in communication, rather than working independently or waiting for updates. This change has allowed me to contribute more effectively within the team and integrate my work better with others.
+
+Looking back at my overall performance, there are several areas where I've shown progress, as well as aspects I'd like to improve in future projects.
+One of my main strengths is my ability to contribute to project direction and technical evaluation, particularly during the testing phase. I actively participate in evaluating hypotheses and connecting statistical analysis with expertise, which helps uncover meaningful insights from the data.
+However, I've also identified some significant weaknesses. In the early stages, I tended to rush into high-level modeling and planning without sufficient detail, leading to inefficiencies and the need for rework later in the project. Similarly, during data preprocessing and testing, I initially relied too heavily on conventional methods and common statistical indicators, overlooking more subtle but specialized signals.
+To address these challenges, I adapted by seeking feedback from teammates and incorporating practical expertise into my analysis. This significantly improved the quality of my results and my understanding of the problem.
+Overall, this project helped me strengthen both my technical capabilities and teamwork skills, while highlighting the importance of structured thinking, collaboration, and continuous learning.
