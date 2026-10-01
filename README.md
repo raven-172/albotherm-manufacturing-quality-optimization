@@ -2,7 +2,6 @@
 
 Predictive quality control system for Albotherm's Advanced sustainable cooling solution. Developed to optimize Albotherm's manufacturing Process.
 
-Instructions to clone the repo are at the [installation](#installation) section.
 
 ## Table of Contents
 
